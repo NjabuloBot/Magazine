@@ -30,7 +30,7 @@ main{
 
 .heading{row-gap:1.5rem;display:grid;grid-column:2/3;grid-template-columns:repeat(2, 1fr);}
 
-.text{grid-column:2/3;letter-spacing:0.6px;column-width:25rem;}
+.text{grid-column:2/3;letter-spacing:0.6px;column-width:25rem;text-align:justify;}
 
 .hero{
    position:relative;
