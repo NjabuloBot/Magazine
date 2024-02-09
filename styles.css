@@ -36,3 +36,5 @@ main{
    position:relative;
    grid-column:1/-1;
  }
+
+ img{width:100%;object-fit:cover;}
