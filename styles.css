@@ -33,5 +33,6 @@ main{
 .text{grid-column:2/3;}
 
 .hero{
+   position:relative;
    grid-column:1/-1;
  }
