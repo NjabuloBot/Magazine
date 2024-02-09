@@ -37,4 +37,6 @@ main{
    grid-column:1/-1;
  }
 
- img{width:100%;object-fit:cover;}
+img{width:100%;object-fit:cover;}
+
+.hero-title{text-align:center;color:orangered;font-size:8rem;}
