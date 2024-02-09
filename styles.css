@@ -49,4 +49,5 @@ img{width:100%;object-fit:cover;}
 
 .publish-date{color:rgba(255,255,255,0.5);}
 
-.social-icons{display:grid;font-size:3rem;}
+.social-icons{display:grid;font-size:3rem;grid-template-columns:repeat(5, 1fr);}
+
