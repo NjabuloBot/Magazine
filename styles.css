@@ -28,6 +28,6 @@ main{
    grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
 }
 
-.heading{grid-column:2/3;}
+.heading{display:grid;grid-column:2/3;}
 
 .text{grid-column:2/3;}
