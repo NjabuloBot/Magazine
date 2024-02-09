@@ -44,3 +44,5 @@ img{width:100%;object-fit:cover;}
 .hero-subtitle{font-size:2.4rem;color:orangered;text-align:center;}
 
 .author{font-size:2rem;font-family:Raleway,sans-serif;}
+
+.author-name a:hover{background-color:#306203}
